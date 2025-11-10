@@ -66,9 +66,17 @@ ProjectName/
   RECOMMENDED SCREENSHOTS (FOR GITHUB & LINKEDIN)
 ────────────────────────────────────────────────────────────────────
 • Screenshot of console running the program  
+![Menu](https://github.com/user-attachments/assets/12c9e8f7-2205-4dfe-b534-1b15c56218c9)
+
 • Screenshot of Solution Explorer showing folder structure  
+![solutionexplorer](https://github.com/user-attachments/assets/9ff615c2-1650-4484-971a-fe2ab3cdd58a)
+
 • Screenshot of Program.cs or business logic  
+![program cs](https://github.com/user-attachments/assets/e1e06d34-9004-497b-aa89-a348d4ab1813)
+
 • Screenshot of the CSV file (optional)
+![github](https://github.com/user-attachments/assets/1f9edbf3-a2c1-4e09-8de1-cbf133e090ba)
+
 
 
 ────────────────────────────────────────────────────────────────────
